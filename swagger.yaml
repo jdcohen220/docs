@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   description: Generate stats and metrics for mobile advertising campaigns.
   version: 1.0.1
-  title: Reveal Mobile Attribution Reporting API
+  title: Reveal Mobile Attribution Report API
   # put the contact info for your development or API team
   contact:
     email: enginnering@revalmobile.com
